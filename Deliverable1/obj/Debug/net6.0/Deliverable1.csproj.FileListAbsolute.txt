@@ -1,0 +1,14 @@
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.exe
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.deps.json
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.runtimeconfig.json
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.dll
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.pdb
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfo.cs
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.dll
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\refint\Deliverable1.dll
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.pdb
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.genruntimeconfig.cache
+C:\Users\BootCamp\Desktop\School Repos\Deliverable1\Deliverable1\Deliverable1\obj\Debug\net6.0\ref\Deliverable1.dll
